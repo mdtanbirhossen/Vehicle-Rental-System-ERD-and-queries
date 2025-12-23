@@ -26,7 +26,7 @@ Relationships:
 
 ---
 
-## SQL Queries
+## SQL Queries (See Queries: [queries.sql](https://github.com/mdtanbirhossen/Vehicle-Rental-System-ERD-and-queries/blob/main/queries.sql))
 
 All required SQL queries are written and solved in the **`queries.sql`** file.
 
